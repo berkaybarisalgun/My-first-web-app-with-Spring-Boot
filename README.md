@@ -41,6 +41,9 @@ Once you access the To-Do Website, you can create a new user account using the "
 ### Contributing
 Contributions are welcome. Please submit a pull request if you would like to contribute to the project.
 
+### References
+This project was inspired by the tutorials of in28minutes.
+
 ### Change Log
 Version 1.0.0 (2023-02-22)
 - Initial release of the application.
