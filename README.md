@@ -1,6 +1,5 @@
 # To-Do Website with Java Spring Boot
-This is a simple web application built using Spring Boot. The application is a To-Do Website which allows users to create, edit and delete their To-Do lists.The application uses H2 in-memory database instead of MySQL for simplicity.
-
+This is a simple To-Do Website built using Java Spring Boot. The application uses the H2 database instead of MySQL for simplicity. Users are required to use predetermined usernames and passwords to access the application. If users want to see pre-existing To-Do lists, they can use the username "admin" and password "admin". However, if they want to create their own To-Do lists, they can use the username "user" and password "user".
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
